@@ -1,0 +1,24 @@
+{
+  "name": "react-native-change-appicon",
+  "version": "0.0.1",
+  "description": "Change AppIcon for iOS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/altncmd/react-native-change-appicon.git"
+  },
+  "keywords": [
+    "change",
+    "AppIcon",
+    "iOS"
+  ],
+  "author": "Elroy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/altncmd/react-native-change-appicon/issues"
+  },
+  "homepage": "https://github.com/altncmd/react-native-change-appicon#readme"
+}
